@@ -1,0 +1,11 @@
+.wrapper{
+    width: 100%;
+    height: 30px;
+    background-color: yellow;
+}
+
+.progress{
+    background-color: blue;
+    height: 30px;
+    width: 0%;
+}
